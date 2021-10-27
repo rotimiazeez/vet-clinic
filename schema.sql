@@ -6,6 +6,5 @@ CREATE TABLE animals (
   dateOfBirth date,
   escapeAttempts INT,
   neutered BOOLEAN,
-  weightKg DECIMAL,
-  species VARCHAR(40);
+  weightKg DECIMAL
 );
