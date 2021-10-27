@@ -37,6 +37,18 @@ AND weightKg <= 17.3;
 
 BEGIN TRAN
 
+UPDATE animals
+SET species = 'unspecified';
+
+SELECT species from animals;
+ROLLBACK;
+
+SELECT species from animals;
+
+
+
+BEGIN TRAN
+
 UPDATE animals 
 SET species =  'digimon'
 WHERE name like '%mon';
