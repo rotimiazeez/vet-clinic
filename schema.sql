@@ -9,3 +9,22 @@ CREATE TABLE animals (
   weightKg DECIMAL,
   species VARCHAR(40);
 );
+
+CREATE TABLE owners (
+   id SERIAL,
+   full_name varchar(50),
+   age int,
+   PRIMARY KEY (id)
+);
+
+CREATE TABLE species (
+   id SERIAL,
+   name varchar(30),
+   PRIMARY KEY (id)
+);
+
+ALTER TABLE animals
+DROP COLUMN species;
+
+ALTER TABLE animals ADD species_id int REFERENCES species(id);
+ALTER TABLE animals ADD owner_id int REFERENCES owners(id);
