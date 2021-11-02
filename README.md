@@ -7,6 +7,8 @@
 - clinic employees
 - visits.
 
+### DIAGRAM
+![vet clinic image](https://user-images.githubusercontent.com/44624138/139962020-7ce4ca82-1b46-43d0-803f-c4a6c66c4709.png)
 
 ## Getting Started
 
@@ -31,11 +33,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@harzeyzh](https://twitter.com/Harzeyzh)
 - Linkedin: [@azeezrotimi019](https://www.linkedin.com/in/azeezrotimi019/)
 
-<!-- 👤 **Author2**
+👤 **Ellaouzi Hamza**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+- GitHub: [hamzaoutdoors](https://github.com/Hamzaoutdoors)
+- LinkedIn : [Hamza Ellaouzi](https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/)
+- Twitter: [Hamza Ellaouzi](https://twitter.com/EllaouziHamza)
 
 ## 🤝 Contributing
 
